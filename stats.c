@@ -89,6 +89,7 @@ void print_statistics(){
       printf("\nThe maximum of the array is : %lf\n",maximum);
       printf("\nThe minimum of the array is : %lf\n",minimum);
 }
+// this is my third commit
 
 
 int main() {
