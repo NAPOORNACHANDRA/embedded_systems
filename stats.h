@@ -10,3 +10,4 @@ void find_maximum(const char*numbers,int siz);
 void find_minimum(const char *numbers,int siz);
 void find_mean(const char *numbers,int siz);
 void print_statistics();
+// hurray this is second commit
